@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding:0;
+}
+.LoaderWraper{
+    height: 100vh;
+    width: 100vw;
+    background-color: #29303b;
+}
+.Loader{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
